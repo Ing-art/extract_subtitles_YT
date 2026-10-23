@@ -1,0 +1,5 @@
+# Generated subtitle files
+*.txt
+
+# Installed dependencies
+node_modules/
